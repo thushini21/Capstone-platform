@@ -1,0 +1,9 @@
+[submodule "Capstone-config-server"]
+	path = Capstone-config-server
+	url = https://github.com/thushini21/Capstone-config-server.git
+[submodule "Capstone-service-registry"]
+	path = Capstone-service-registry
+	url = https://github.com/thushini21/Capstone-service-registry.git
+[submodule "Capstone--api-gateway"]
+	path = Capstone--api-gateway
+	url = https://github.com/thushini21/Capstone--api-gateway.git
